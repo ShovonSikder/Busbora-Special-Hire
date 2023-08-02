@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast_1" translatable="false">Transaction print,use the AIDL mode!</string>
+    <string name="toast_2" translatable="false">The service has been disconnected!</string>
+    <string name="toast_3" translatable="false">Bluetooth device is unavailable</string>
+    <string name="toast_4" translatable="false">Bluetooth device not detected. Please open Bluetooth!</string>
+    <string name="toast_5" translatable="false">Not Found InnterPrinter!</string>
+    <string name="toast_6" translatable="false">Bluetooth connect failed!</string>
+    <string name="toast_7" translatable="false"> Only a single Qr code is printed for the AIDL mode</string>
+    <string name="toast_8" translatable="false">Now QrCode size must be less than 7!</string>
+    <string name="toast_9" translatable="false">BarCode type or conent error!</string>
+    <string name="toast_10" translatable="false">Please set the printer as black label mode!</string>
+    <string name="toast_11" translatable="false">Settings->System->Advanced->InnerPrinter-> set black mark
+        function</string>
+    <string name="toast_12" translatable="false">Please set the printer to label mode!</string>
+</resources>

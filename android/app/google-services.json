@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175949609985",
+    "project_id": "hireabus-e17b9",
+    "storage_bucket": "hireabus-e17b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175949609985:android:ef5aab15e2c0a614919400",
+        "android_client_info": {
+          "package_name": "tz.co.busbora.hire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175949609985-5s4efnovaf9jjc5j3brd3csnr0rg3b6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCckp8VZRjudI7mH7W0Obywem0T-rqEdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175949609985-5s4efnovaf9jjc5j3brd3csnr0rg3b6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
